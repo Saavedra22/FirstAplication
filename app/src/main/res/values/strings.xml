@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirstAplicacion</string>
+    <string name="action_settings">Settings</string>
+    <string name="clickeame">clickeame</string>
+    <string name="nombre">pon tu nombre aqui !!</string>
+    <string name="here"> estuvo aqui !!</string>
+    <string name="hola">Hey que pasa amigos... este es mi taller mensajes para todos</string>
+    <string name="clic">mensaje subliminal</string>
+    <string name="title_activity_mensaje">mensaje</string>
+    <string name="change">Cambio</string>
+</resources>
